@@ -1,0 +1,10 @@
+Package: se.nosskirneh.bankidnobreadcrumbs
+Name: BankIDNoBreadcrumbs
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes breadcrumbs pointing to BankID
+Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.bankidnobreadcrumbs
+Maintainer: Andreas Henriksson
+Author: Andreas Henriksson
+Section: Tweaks
